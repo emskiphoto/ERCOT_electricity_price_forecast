@@ -1,8 +1,7 @@
 # ERCOT Electricity Price Forecast
 __Project Objective:__
 Generate hourly forecasts of the $/MWh Local Marginal Price (LMP) on the Day-Ahead (DA) and Real-Time (RT) markets.
-__Source(s):__
-(1) MS Excel file with two worksheets containing time-series data and tabular data.  
+
 
 Price forecasting will be generated for the "ERCOT North Hub" location, and data for various Independent System Operators(ISO) is considered.
 
@@ -16,6 +15,9 @@ The process is divided in to the following sequence of notebooks (.ipynb format)
  * 5 - ARCH_GARCH_models - _coming soon_
 
 The script was originally written to handle a specific dataset.  However, it is built with flexibility that should permit the use of variable sets of time series and feature tabular data as long as they use the same structure as the original dataset.
+
+__Source(s):__
+(1) MS Excel file with two worksheets containing time-series data and tabular data.  
 
 Limitations
 * The script does not identify trading strategies or any other application of the forecast
