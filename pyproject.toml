@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ercot-electricity-price-forecast"
-version = "0.1.1"
+version = "0.1.2"
 description = "Demonstration of time series methods used to predict hourly day-ahead and real time $/MWh prices"
 authors = ["Matt Chmielewski <43832628+emskiphoto@users.noreply.github.com>"]
 license = "apache 1.0"
@@ -8,15 +8,15 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.9.1,<3.12"
-matplotlib = ">=3.3.0"
-numpy = ">=1.21,<1.26"
-pandas = "1.5.3"
-scikit-learn = ">=1.0,<1.3.0"
-seaborn = "0.13.2"
-statsmodels = "0.14.4"
-tqdm = "4.67.1"
-scipy = ">=1.10.1,<1.11.0"
-plotly-resampler = ">=0.8.3.1"
+matplotlib = "^3.9.3"
+pandas = "^2.2.3"
+scikit-learn = "^1.6.0"
+seaborn = "^0.13.2"
+statsmodels = "^0.14.4"
+tqdm = "^4.67.1"
+scipy = ">=1.11"
+numpy = ">=1.25.1"
+
 
 
 [build-system]

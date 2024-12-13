@@ -28,10 +28,13 @@ pd.options.display.max_columns = 50
 
 #plotting configuration
 try: 
-#     plt.style.use('seaborn-v0_8-poster')
-     plt.style.use('seaborn')
+    plt.style.use('seaborn-v0_8')
 except:
-     plt.style.use('seaborn-poster')
+    try:
+        plt.style.use('seaborn')
+    except:
+        style_poster = [x_ for x_ in plt.style.available if x_.endswith('poster')][0]
+        plt.style.use(style_poster)
 
 plt.rcParams['figure.figsize'] = [11,5]
 plt.rcParams["figure.titlesize"] = 'x-large'

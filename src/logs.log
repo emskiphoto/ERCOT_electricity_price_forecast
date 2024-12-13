@@ -1,0 +1,980 @@
+2024-12-06 14:47:19,153:WARNING:C:\Users\user\OneDrive\python_envs\marginal_pricing_forecast\code\config.py:32: MatplotlibDeprecationWarning: The seaborn styles shipped by Matplotlib are deprecated since 3.6, as they no longer correspond to the styles shipped by seaborn. However, they will remain available as 'seaborn-v0_8-<style>'. Alternatively, directly use the seaborn API instead.
+  plt.style.use('seaborn')
+
+2024-12-06 23:37:09,183:WARNING:C:\Users\user\OneDrive\python_envs\ERCOT_electricity_price_forecast\src\config.py:32: MatplotlibDeprecationWarning: The seaborn styles shipped by Matplotlib are deprecated since 3.6, as they no longer correspond to the styles shipped by seaborn. However, they will remain available as 'seaborn-v0_8-<style>'. Alternatively, directly use the seaborn API instead.
+  plt.style.use('seaborn')
+
+2024-12-09 20:48:40,790:WARNING:C:\Users\user\OneDrive\python_envs\ERCOT_electricity_price_forecast\src\config.py:32: MatplotlibDeprecationWarning: The seaborn styles shipped by Matplotlib are deprecated since 3.6, as they no longer correspond to the styles shipped by seaborn. However, they will remain available as 'seaborn-v0_8-<style>'. Alternatively, directly use the seaborn API instead.
+  plt.style.use('seaborn')
+
+2024-12-09 20:56:46,959:WARNING:C:\Users\user\OneDrive\python_envs\ERCOT_electricity_price_forecast\src\config.py:32: MatplotlibDeprecationWarning: The seaborn styles shipped by Matplotlib are deprecated since 3.6, as they no longer correspond to the styles shipped by seaborn. However, they will remain available as 'seaborn-v0_8-<style>'. Alternatively, directly use the seaborn API instead.
+  plt.style.use('seaborn')
+
+2024-12-09 21:05:06,718:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-09 21:05:06,754:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\optimize\_minpack_py.py:178: RuntimeWarning: The iteration is not making good progress, as measured by the 
+  improvement from the last ten iterations.
+  warnings.warn(msg, RuntimeWarning)
+
+2024-12-09 21:05:26,220:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-09 21:05:51,095:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-09 21:06:00,378:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-09 21:06:17,143:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-09 21:06:17,151:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\optimize\_minpack_py.py:178: RuntimeWarning: The iteration is not making good progress, as measured by the 
+  improvement from the last ten iterations.
+  warnings.warn(msg, RuntimeWarning)
+
+2024-12-09 21:06:20,943:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-09 21:06:25,287:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3408317685.py:35: RuntimeWarning: invalid value encountered in divide
+  ss = sum (((cum_expected_frequency - cum_observed_frequency) ** 2) / cum_observed_frequency)
+
+2024-12-09 21:07:32,317:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-09 21:07:32,317:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\optimize\_minpack_py.py:178: RuntimeWarning: The iteration is not making good progress, as measured by the 
+  improvement from the last ten iterations.
+  warnings.warn(msg, RuntimeWarning)
+
+2024-12-09 21:07:51,006:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-09 21:09:22,638:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\1686301062.py:6: RuntimeWarning: divide by zero encountered in divide
+  index= np.round(sampling_freq / periodogram(x.dropna(),
+
+2024-12-09 21:09:31,124:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\361782429.py:10: RuntimeWarning: divide by zero encountered in divide
+  index= np.round(sampling_freq / periodogram(x.dropna(),
+
+2024-12-09 21:09:31,179:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\361782429.py:10: RuntimeWarning: divide by zero encountered in divide
+  index= np.round(sampling_freq / periodogram(x.dropna(),
+
+2024-12-09 21:24:03,825:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\1237758703.py:5: FutureWarning: weekofyear and week have been deprecated, please use DatetimeIndex.isocalendar().week instead, which returns a Series. To exactly reproduce the behavior of week and weekofyear and return an Index, you may call pd.Int64Index(idx.isocalendar().week)
+  df_date['week_of_year'] = df_date.index.weekofyear
+
+2024-12-09 21:30:25,411:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\1861449034.py:5: FutureWarning: In a future version of pandas all arguments of DataFrame.any and Series.any will be keyword-only.
+  nan_fraction = df_features_pre_pca.isna().any(1).sum() / df_features_pre_pca.shape[0]
+
+2024-12-09 21:38:58,903:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,918:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,918:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,918:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,918:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,918:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,918:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,934:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,934:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,934:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,934:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,934:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,934:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,950:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,950:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,950:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,950:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,950:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,965:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,965:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,965:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,965:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,965:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,965:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,981:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,981:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,981:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,981:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,981:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,981:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,997:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,997:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,997:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,997:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,997:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:58,997:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,012:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,012:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,012:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,012:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,012:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,028:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,028:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,028:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,028:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,028:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,028:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,043:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,043:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,043:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,043:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,043:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,043:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,059:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,059:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,059:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,059:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,059:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,059:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,075:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,075:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,075:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,075:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,075:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,075:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,090:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,090:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,090:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,090:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,090:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,106:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,106:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,106:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,106:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,106:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,106:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,122:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,122:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,122:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-09 21:38:59,122:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_9708\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 09:05:34,326:WARNING:C:\Users\user\OneDrive\python_envs\ERCOT_electricity_price_forecast\src\config.py:32: MatplotlibDeprecationWarning: The seaborn styles shipped by Matplotlib are deprecated since 3.6, as they no longer correspond to the styles shipped by seaborn. However, they will remain available as 'seaborn-v0_8-<style>'. Alternatively, directly use the seaborn API instead.
+  plt.style.use('seaborn')
+
+2024-12-10 10:31:47,574:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-10 10:31:47,593:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\optimize\_minpack_py.py:178: RuntimeWarning: The iteration is not making good progress, as measured by the 
+  improvement from the last ten iterations.
+  warnings.warn(msg, RuntimeWarning)
+
+2024-12-10 10:31:55,318:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-10 10:32:05,033:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-10 10:32:08,808:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-10 10:32:14,996:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-10 10:32:14,996:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\optimize\_minpack_py.py:178: RuntimeWarning: The iteration is not making good progress, as measured by the 
+  improvement from the last ten iterations.
+  warnings.warn(msg, RuntimeWarning)
+
+2024-12-10 10:32:16,444:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-10 10:32:18,033:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3408317685.py:35: RuntimeWarning: invalid value encountered in divide
+  ss = sum (((cum_expected_frequency - cum_observed_frequency) ** 2) / cum_observed_frequency)
+
+2024-12-10 11:25:51,955:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\1686301062.py:6: RuntimeWarning: divide by zero encountered in divide
+  index= np.round(sampling_freq / periodogram(x.dropna(),
+
+2024-12-10 11:26:12,908:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\1686301062.py:6: RuntimeWarning: divide by zero encountered in divide
+  index= np.round(sampling_freq / periodogram(x.dropna(),
+
+2024-12-10 11:26:28,854:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\1686301062.py:6: RuntimeWarning: divide by zero encountered in divide
+  index= np.round(sampling_freq / periodogram(x.dropna(),
+
+2024-12-10 11:26:57,156:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\1686301062.py:6: RuntimeWarning: divide by zero encountered in divide
+  index= np.round(sampling_freq / periodogram(x.dropna(),
+
+2024-12-10 11:27:03,175:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\1686301062.py:6: RuntimeWarning: divide by zero encountered in divide
+  index= np.round(sampling_freq / periodogram(x.dropna(),
+
+2024-12-10 11:27:18,957:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\1686301062.py:6: RuntimeWarning: divide by zero encountered in divide
+  index= np.round(sampling_freq / periodogram(x.dropna(),
+
+2024-12-10 11:27:25,226:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\361782429.py:10: RuntimeWarning: divide by zero encountered in divide
+  index= np.round(sampling_freq / periodogram(x.dropna(),
+
+2024-12-10 11:27:25,237:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\361782429.py:10: RuntimeWarning: divide by zero encountered in divide
+  index= np.round(sampling_freq / periodogram(x.dropna(),
+
+2024-12-10 11:52:39,136:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\1237758703.py:5: FutureWarning: weekofyear and week have been deprecated, please use DatetimeIndex.isocalendar().week instead, which returns a Series. To exactly reproduce the behavior of week and weekofyear and return an Index, you may call pd.Int64Index(idx.isocalendar().week)
+  df_date['week_of_year'] = df_date.index.weekofyear
+
+2024-12-10 11:52:39,385:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\1861449034.py:5: FutureWarning: In a future version of pandas all arguments of DataFrame.any and Series.any will be keyword-only.
+  nan_fraction = df_features_pre_pca.isna().any(1).sum() / df_features_pre_pca.shape[0]
+
+2024-12-10 12:04:13,291:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,291:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,291:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,291:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,297:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,297:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,297:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,297:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,297:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,301:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,301:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,301:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,301:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,301:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,301:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,306:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,306:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,306:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,306:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,306:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,306:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,311:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,311:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,311:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,311:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,311:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,311:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,316:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,316:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,318:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,318:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,318:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,318:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,318:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,318:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,318:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,318:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,318:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,318:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,327:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,327:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,327:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,327:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,327:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,331:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,331:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,333:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,334:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,334:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,335:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,336:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,337:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,338:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,339:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,340:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,341:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,341:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,342:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,343:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,344:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,345:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,346:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,347:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,348:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,348:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,349:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,350:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,351:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,352:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,353:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,354:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,355:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,356:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,357:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,357:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,359:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,360:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,361:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,362:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 12:04:13,363:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_10628\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 14:46:16,404:WARNING:C:\Users\user\OneDrive\python_envs\ERCOT_electricity_price_forecast\src\config.py:32: MatplotlibDeprecationWarning: The seaborn styles shipped by Matplotlib are deprecated since 3.6, as they no longer correspond to the styles shipped by seaborn. However, they will remain available as 'seaborn-v0_8-<style>'. Alternatively, directly use the seaborn API instead.
+  plt.style.use('seaborn')
+
+2024-12-10 14:47:26,996:WARNING:C:\Users\user\OneDrive\python_envs\ERCOT_electricity_price_forecast\src\config.py:32: MatplotlibDeprecationWarning: The seaborn styles shipped by Matplotlib are deprecated since 3.6, as they no longer correspond to the styles shipped by seaborn. However, they will remain available as 'seaborn-v0_8-<style>'. Alternatively, directly use the seaborn API instead.
+  plt.style.use('seaborn')
+
+2024-12-10 15:00:10,005:WARNING:C:\Users\user\OneDrive\python_envs\ERCOT_electricity_price_forecast\src\config.py:32: MatplotlibDeprecationWarning: The seaborn styles shipped by Matplotlib are deprecated since 3.6, as they no longer correspond to the styles shipped by seaborn. However, they will remain available as 'seaborn-v0_8-<style>'. Alternatively, directly use the seaborn API instead.
+  plt.style.use('seaborn')
+
+2024-12-10 15:05:13,030:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-10 15:05:13,055:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\optimize\_minpack_py.py:178: RuntimeWarning: The iteration is not making good progress, as measured by the 
+  improvement from the last ten iterations.
+  warnings.warn(msg, RuntimeWarning)
+
+2024-12-10 15:05:21,025:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-10 15:05:30,729:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-10 15:05:34,122:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-10 15:05:39,750:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-10 15:05:39,750:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\optimize\_minpack_py.py:178: RuntimeWarning: The iteration is not making good progress, as measured by the 
+  improvement from the last ten iterations.
+  warnings.warn(msg, RuntimeWarning)
+
+2024-12-10 15:05:41,385:WARNING:c:\users\user\onedrive\python_envs\ercot_electricity_price_forecast\lib\site-packages\scipy\stats\_continuous_distns.py:709: RuntimeWarning: invalid value encountered in sqrt
+  sk = 2*(b-a)*np.sqrt(a + b + 1) / (a + b + 2) / np.sqrt(a*b)
+
+2024-12-10 15:05:42,865:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\4090984139.py:35: RuntimeWarning: invalid value encountered in divide
+  ss = sum (((cum_expected_frequency - cum_observed_frequency) ** 2) / cum_observed_frequency)
+
+2024-12-10 15:08:44,118:WARNING:C:\Users\user\OneDrive\python_envs\ERCOT_electricity_price_forecast\src\utils.py:114: RuntimeWarning: divide by zero encountered in divide
+  index= np.round(sampling_freq / periodogram(x.dropna(),
+
+2024-12-10 15:08:44,153:WARNING:C:\Users\user\OneDrive\python_envs\ERCOT_electricity_price_forecast\src\utils.py:130: RuntimeWarning: divide by zero encountered in divide
+  index= np.round(sampling_freq / periodogram(x.dropna(),
+
+2024-12-10 15:08:44,157:WARNING:C:\Users\user\OneDrive\python_envs\ERCOT_electricity_price_forecast\src\utils.py:130: RuntimeWarning: divide by zero encountered in divide
+  index= np.round(sampling_freq / periodogram(x.dropna(),
+
+2024-12-10 16:05:36,105:WARNING:<timed exec>:4: FutureWarning: ['WZ_Coast (BIDCLOSE_LOAD_FORECAST)', 'WZ_ERCOT (BIDCLOSE_LOAD_FORECAST)', 'WZ_East (BIDCLOSE_LOAD_FORECAST)', 'WZ_FarWest (BIDCLOSE_LOAD_FORECAST)', 'WZ_North (BIDCLOSE_LOAD_FORECAST)', 'WZ_NorthCentral (BIDCLOSE_LOAD_FORECAST)', 'WZ_SouthCentral (BIDCLOSE_LOAD_FORECAST)', 'WZ_Southern (BIDCLOSE_LOAD_FORECAST)', 'WZ_West (BIDCLOSE_LOAD_FORECAST)', 'ERCOT (TOTAL_RESOURCE_CAP_OUT)', 'ERCOT (SOLAR_STPPF_BIDCLOSE)', 'ERCOT (WIND_STWPF_BIDCLOSE)', 'GR_COASTAL (WIND_STWPF_BIDCLOSE)', 'GR_ERCOT (WIND_STWPF_BIDCLOSE)', 'GR_NORTH (WIND_STWPF_BIDCLOSE)', 'GR_PANHANDLE (WIND_STWPF_BIDCLOSE)', 'GR_SOUTH (WIND_STWPF_BIDCLOSE)', 'GR_WEST (WIND_STWPF_BIDCLOSE)', 'NORTH (ERCOT) (WIND_STWPF_BIDCLOSE)', 'SOUTH_HOUSTON (WIND_STWPF_BIDCLOSE)', 'WEST (ERCOT) (WIND_STWPF_BIDCLOSE)', 'WEST_NORTH (WIND_STWPF_BIDCLOSE)'] did not aggregate successfully. If any error is raised this will raise in a future version of pandas. Drop these columns/ops to avoid this warning.
+
+2024-12-10 16:07:05,495:WARNING:<timed exec>:4: FutureWarning: ['WZ_Coast (BIDCLOSE_LOAD_FORECAST)', 'WZ_ERCOT (BIDCLOSE_LOAD_FORECAST)', 'WZ_East (BIDCLOSE_LOAD_FORECAST)', 'WZ_FarWest (BIDCLOSE_LOAD_FORECAST)', 'WZ_North (BIDCLOSE_LOAD_FORECAST)', 'WZ_NorthCentral (BIDCLOSE_LOAD_FORECAST)', 'WZ_SouthCentral (BIDCLOSE_LOAD_FORECAST)', 'WZ_Southern (BIDCLOSE_LOAD_FORECAST)', 'WZ_West (BIDCLOSE_LOAD_FORECAST)', 'ERCOT (TOTAL_RESOURCE_CAP_OUT)', 'ERCOT (SOLAR_STPPF_BIDCLOSE)', 'ERCOT (WIND_STWPF_BIDCLOSE)', 'GR_COASTAL (WIND_STWPF_BIDCLOSE)', 'GR_ERCOT (WIND_STWPF_BIDCLOSE)', 'GR_NORTH (WIND_STWPF_BIDCLOSE)', 'GR_PANHANDLE (WIND_STWPF_BIDCLOSE)', 'GR_SOUTH (WIND_STWPF_BIDCLOSE)', 'GR_WEST (WIND_STWPF_BIDCLOSE)', 'NORTH (ERCOT) (WIND_STWPF_BIDCLOSE)', 'SOUTH_HOUSTON (WIND_STWPF_BIDCLOSE)', 'WEST (ERCOT) (WIND_STWPF_BIDCLOSE)', 'WEST_NORTH (WIND_STWPF_BIDCLOSE)'] did not aggregate successfully. If any error is raised this will raise in a future version of pandas. Drop these columns/ops to avoid this warning.
+
+2024-12-10 16:07:44,508:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\1237758703.py:5: FutureWarning: weekofyear and week have been deprecated, please use DatetimeIndex.isocalendar().week instead, which returns a Series. To exactly reproduce the behavior of week and weekofyear and return an Index, you may call pd.Int64Index(idx.isocalendar().week)
+  df_date['week_of_year'] = df_date.index.weekofyear
+
+2024-12-10 16:07:51,017:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\1861449034.py:5: FutureWarning: In a future version of pandas all arguments of DataFrame.any and Series.any will be keyword-only.
+  nan_fraction = df_features_pre_pca.isna().any(1).sum() / df_features_pre_pca.shape[0]
+
+2024-12-10 16:07:57,968:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,969:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,970:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,971:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,972:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,973:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,974:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,975:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,976:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,977:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,978:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,979:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,981:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,981:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,982:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,983:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,984:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,985:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,986:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:07:57,987:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:09:53,644:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\4265787392.py:1: FutureWarning: ['slope_intercept_p_value_linear_ts'] did not aggregate successfully. If any error is raised this will raise in a future version of pandas. Drop these columns/ops to avoid this warning.
+  df['WZ_Coast (BIDCLOSE_LOAD_FORECAST)'].rolling(12).agg(stats_rolling_)
+
+2024-12-10 16:30:11,074:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\2716444225.py:1: FutureWarning: ['slope_intercept_p_value_linear_ts'] did not aggregate successfully. If any error is raised this will raise in a future version of pandas. Drop these columns/ops to avoid this warning.
+  df['WZ_Coast (BIDCLOSE_LOAD_FORECAST)'].rolling(12, min_periods=1).agg(stats_rolling_)
+
+2024-12-10 16:30:58,733:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\2716444225.py:1: FutureWarning: ['slope_intercept_p_value_linear_ts'] did not aggregate successfully. If any error is raised this will raise in a future version of pandas. Drop these columns/ops to avoid this warning.
+  df['WZ_Coast (BIDCLOSE_LOAD_FORECAST)'].rolling(12, min_periods=1).agg(stats_rolling_)
+
+2024-12-10 16:43:53,781:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\1237758703.py:5: FutureWarning: weekofyear and week have been deprecated, please use DatetimeIndex.isocalendar().week instead, which returns a Series. To exactly reproduce the behavior of week and weekofyear and return an Index, you may call pd.Int64Index(idx.isocalendar().week)
+  df_date['week_of_year'] = df_date.index.weekofyear
+
+2024-12-10 16:43:58,134:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\1861449034.py:5: FutureWarning: In a future version of pandas all arguments of DataFrame.any and Series.any will be keyword-only.
+  nan_fraction = df_features_pre_pca.isna().any(1).sum() / df_features_pre_pca.shape[0]
+
+2024-12-10 16:44:49,605:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,605:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,610:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,610:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,610:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,610:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,613:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,615:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,615:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,615:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,615:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,615:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,620:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,620:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,620:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,620:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,620:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,620:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,625:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,625:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,625:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,625:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,625:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,625:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,630:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,630:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,630:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,630:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,630:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,630:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,635:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,636:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,637:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,638:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,639:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,640:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,641:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,642:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,643:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,644:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,644:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,645:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,646:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,647:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,648:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,649:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,649:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,650:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,651:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,652:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,653:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,654:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,655:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,656:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,656:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,657:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,658:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,659:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,660:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,661:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,662:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,663:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,664:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,665:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,666:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,666:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,666:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,666:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,666:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,666:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,666:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,666:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,666:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,666:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,675:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,675:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,675:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,680:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,680:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
+2024-12-10 16:44:49,680:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_3104\3994013367.py:10: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  df_features_pre_pca2[f'{col_}_lag_{lag}'] = df_features_pre_pca[col_].shift(lag)
+
